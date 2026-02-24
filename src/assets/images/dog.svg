@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Body -->
+  <ellipse cx="100" cy="120" rx="50" ry="40" fill="#f4a460" stroke="#d2691e" stroke-width="2"/>
+
+  <!-- Head -->
+  <circle cx="100" cy="70" r="35" fill="#f4a460" stroke="#d2691e" stroke-width="2"/>
+
+  <!-- Left Ear -->
+  <ellipse cx="75" cy="50" rx="15" ry="25" fill="#d2691e" stroke="#a0522d" stroke-width="2"/>
+
+  <!-- Right Ear -->
+  <ellipse cx="125" cy="50" rx="15" ry="25" fill="#d2691e" stroke="#a0522d" stroke-width="2"/>
+
+  <!-- Left Eye -->
+  <circle cx="88" cy="65" r="5" fill="#333"/>
+  <circle cx="90" cy="63" r="2" fill="#fff"/>
+
+  <!-- Right Eye -->
+  <circle cx="112" cy="65" r="5" fill="#333"/>
+  <circle cx="114" cy="63" r="2" fill="#fff"/>
+
+  <!-- Nose -->
+  <ellipse cx="100" cy="80" rx="6" ry="5" fill="#333"/>
+
+  <!-- Mouth -->
+  <path d="M 100 82 Q 90 88 85 85" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 100 82 Q 110 88 115 85" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Tail -->
+  <path id="tail" d="M 140 110 Q 160 100 165 85" stroke="#d2691e" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- Front Left Leg -->
+  <rect x="75" y="150" width="12" height="35" rx="6" fill="#f4a460" stroke="#d2691e" stroke-width="2"/>
+
+  <!-- Front Right Leg -->
+  <rect x="113" y="150" width="12" height="35" rx="6" fill="#f4a460" stroke="#d2691e" stroke-width="2"/>
+
+  <!-- Back Left Leg -->
+  <rect x="60" y="145" width="12" height="30" rx="6" fill="#f4a460" stroke="#d2691e" stroke-width="2"/>
+
+  <!-- Back Right Leg -->
+  <rect x="128" y="145" width="12" height="30" rx="6" fill="#f4a460" stroke="#d2691e" stroke-width="2"/>
+
+  <!-- Paws -->
+  <ellipse cx="81" cy="185" rx="8" ry="5" fill="#d2691e"/>
+  <ellipse cx="119" cy="185" rx="8" ry="5" fill="#d2691e"/>
+  <ellipse cx="66" cy="175" rx="8" ry="5" fill="#d2691e"/>
+  <ellipse cx="134" cy="175" rx="8" ry="5" fill="#d2691e"/>
+</svg>
